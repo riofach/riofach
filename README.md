@@ -4,7 +4,8 @@ Here are some ideas to get you started:
 - 🌱 I'm currently studying at Global Institute with a major in software engineering.
 - ⚡ Fun fact: at the time this repository was created I was undergoing the MSIB program at Bangkit Dicoding partner. [Dicoding](https://www.dicoding.com/)
 
-💬 If you are interested in getting to know me better, you can follow me on my account.
+💬 If you are interested in getting to know me better, you can follow me on my account. <br>
+✨ Check [my-website](https://rioraditya.my.id/)
  
 ### Github Statistic
 <p align="left">
